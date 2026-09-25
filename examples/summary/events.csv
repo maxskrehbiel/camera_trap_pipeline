@@ -1,0 +1,175 @@
+event_id,camera_id,start,end,duration_s,n_photos,n_animal_photos,max_animals,has_person,has_vehicle,observation_type,species,species_count,best_photo_id
+cam_01-e00001,cam_01,2026-04-06 03:18:48,2026-04-06 03:19:05,17.0,6,6,1,False,False,animal,white-tailed deer,1,8e3983095c5c9587
+cam_01-e00002,cam_01,2026-04-06 05:06:46,2026-04-06 05:07:17,31.0,9,9,3,False,False,animal,white-tailed deer,3,609ce64b3d78677b
+cam_01-e00003,cam_01,2026-04-06 05:28:00,2026-04-06 05:28:02,2.0,3,3,2,False,False,animal,white-tailed deer,2,e3f89f08657979e5
+cam_01-e00004,cam_01,2026-04-06 07:52:40,2026-04-06 07:53:02,22.0,6,6,5,False,False,animal,wild turkey,5,b72bf5f0e4b7e70e
+cam_01-e00005,cam_01,2026-04-06 09:21:01,2026-04-06 09:21:03,2.0,3,0,0,False,False,blank,,0,01834093de2e8d6c
+cam_01-e00006,cam_01,2026-04-06 11:40:32,2026-04-06 11:41:17,45.0,9,9,1,False,False,animal,eastern gray squirrel,1,5a8af7a2ddb1bb3d
+cam_01-e00007,cam_01,2026-04-06 23:54:12,2026-04-06 23:54:14,2.0,3,3,1,False,False,animal,carnivora (order),1,053fbbef39d1be34
+cam_01-e00008,cam_01,2026-04-07 01:56:13,2026-04-07 01:56:15,2.0,3,3,3,False,False,animal,white-tailed deer,3,867e552b09b521bb
+cam_01-e00009,cam_01,2026-04-07 02:24:03,2026-04-07 02:24:36,33.0,6,6,3,False,False,animal,white-tailed deer,3,556f26389408e588
+cam_01-e00010,cam_01,2026-04-07 04:12:51,2026-04-07 04:12:53,2.0,3,3,1,False,False,animal,canis (genus),1,d2b9b272e5ada684
+cam_01-e00011,cam_01,2026-04-07 10:01:29,2026-04-07 10:01:31,2.0,3,0,0,True,False,person,,0,77c8f2f7939df8c1
+cam_01-e00012,cam_01,2026-04-07 16:35:44,2026-04-07 16:35:46,2.0,3,3,2,False,False,animal,eastern gray squirrel,2,31e7741a094f91d4
+cam_01-e00013,cam_01,2026-04-07 17:58:10,2026-04-07 17:58:12,2.0,3,3,2,False,False,animal,eastern gray squirrel,2,dc99d2661f96208d
+cam_01-e00014,cam_01,2026-04-07 19:27:09,2026-04-07 19:27:11,2.0,3,3,1,False,False,animal,coyote,1,31a02baeecda4ce4
+cam_01-e00015,cam_01,2026-04-07 20:23:18,2026-04-07 20:23:45,27.0,6,6,1,False,False,animal,white-tailed deer,1,7bb78f9d4fec4cc1
+cam_01-e00016,cam_01,2026-04-07 20:55:11,2026-04-07 20:55:37,26.0,6,6,1,False,False,animal,carnivora (order),1,da102f7d9dafcafe
+cam_01-e00017,cam_01,2026-04-08 01:04:31,2026-04-08 01:05:07,36.0,6,6,1,False,False,animal,white-tailed deer,1,eef6e401b5b43fa6
+cam_01-e00018,cam_01,2026-04-08 02:56:17,2026-04-08 02:56:19,2.0,3,3,1,False,False,animal,carnivora (order),1,4d777d45364799b9
+cam_01-e00019,cam_01,2026-04-08 08:33:34,2026-04-08 08:33:36,2.0,3,0,0,False,False,blank,,0,09a0f6d2599d6f5c
+cam_01-e00020,cam_01,2026-04-08 09:39:51,2026-04-08 09:39:53,2.0,3,3,1,False,False,animal,white-tailed deer,1,7ae8252d34b2d122
+cam_01-e00021,cam_01,2026-04-08 14:22:31,2026-04-08 14:22:48,17.0,6,6,2,False,False,animal,eastern gray squirrel,2,a11b6a5fd6b55953
+cam_01-e00022,cam_01,2026-04-08 16:35:22,2026-04-08 16:35:24,2.0,3,0,0,False,False,blank,,0,f69577431d97ee74
+cam_01-e00023,cam_01,2026-04-08 20:01:42,2026-04-08 20:01:44,2.0,3,3,2,False,False,animal,northern raccoon,2,df88011ab334b798
+cam_01-e00024,cam_01,2026-04-08 20:50:11,2026-04-08 20:50:13,2.0,3,3,1,False,False,animal,coyote,1,10158208c825db51
+cam_01-e00025,cam_01,2026-04-08 22:47:34,2026-04-08 22:47:36,2.0,3,3,3,False,False,animal,white-tailed deer,3,1cd0540cb301981c
+cam_01-e00026,cam_01,2026-04-08 23:44:43,2026-04-08 23:44:45,2.0,3,3,2,False,False,animal,sciurus (genus),2,84da6a07081bcb6f
+cam_01-e00027,cam_01,2026-04-09 04:21:47,2026-04-09 04:21:49,2.0,3,3,2,False,False,animal,northern raccoon,2,41dfb097448528bc
+cam_01-e00028,cam_01,2026-04-09 11:25:40,2026-04-09 11:25:42,2.0,3,0,0,False,False,blank,,0,051eba9cfcbc5130
+cam_01-e00029,cam_01,2026-04-09 13:55:27,2026-04-09 13:55:29,2.0,3,0,0,False,False,blank,,0,8075c516a303b9e1
+cam_01-e00030,cam_01,2026-04-09 20:08:25,2026-04-09 20:09:31,66.0,9,9,1,False,False,animal,white-tailed deer,1,74ddbe214a256602
+cam_01-e00031,cam_01,2026-04-09 21:33:45,2026-04-09 21:34:22,37.0,6,6,1,False,False,animal,virginia opossum,1,90ccc97694fd882f
+cam_01-e00032,cam_01,2026-04-09 21:52:27,2026-04-09 21:52:52,25.0,6,6,1,False,False,animal,coyote,1,906d2339facc8cb5
+cam_01-e00033,cam_01,2026-04-09 22:11:40,2026-04-09 22:11:42,2.0,3,3,1,False,False,animal,virginia opossum,1,1d829d90b60b1f18
+cam_01-e00034,cam_01,2026-04-09 22:46:00,2026-04-09 22:47:15,75.0,9,9,1,False,False,animal,white-tailed deer,1,0959b82987a0f87e
+cam_01-e00035,cam_01,2026-04-10 00:44:43,2026-04-10 00:44:45,2.0,3,3,3,False,False,animal,white-tailed deer,3,852fcc948275df8c
+cam_01-e00036,cam_01,2026-04-10 09:43:23,2026-04-10 09:43:25,2.0,3,3,1,False,False,animal,white-tailed deer,1,22a0d9036e46a83a
+cam_01-e00037,cam_01,2026-04-10 13:46:01,2026-04-10 13:46:03,2.0,3,3,5,False,False,animal,wild turkey,5,d03f53f3430f3f38
+cam_01-e00038,cam_01,2026-04-10 16:06:27,2026-04-10 16:06:29,2.0,3,0,0,False,False,blank,,0,6b6e6ea4f1d8b0d9
+cam_01-e00039,cam_01,2026-04-10 20:39:29,2026-04-10 20:40:09,40.0,6,6,1,False,False,animal,northern raccoon,1,b11de2cfa9eb4cd5
+cam_01-e00040,cam_01,2026-04-11 02:26:37,2026-04-11 02:27:27,50.0,9,9,2,False,False,animal,northern raccoon,2,9235da803e03a3e8
+cam_01-e00041,cam_01,2026-04-11 05:17:19,2026-04-11 05:17:21,2.0,3,3,1,False,False,animal,white-tailed deer,1,6b0e1e105df0ed9b
+cam_01-e00042,cam_01,2026-04-11 05:54:36,2026-04-11 05:54:38,2.0,3,3,2,False,False,animal,carnivora (order),2,f15f383c0ffcaedf
+cam_01-e00043,cam_01,2026-04-11 07:39:33,2026-04-11 07:40:15,42.0,9,9,1,False,False,animal,wild turkey,1,eb700967cb05b07b
+cam_01-e00044,cam_01,2026-04-11 14:33:53,2026-04-11 14:33:55,2.0,3,0,0,False,False,blank,,0,d1c07675f781092a
+cam_01-e00045,cam_01,2026-04-11 21:13:18,2026-04-11 21:13:48,30.0,6,6,1,False,False,animal,virginia opossum,1,0c7bfb44e296a719
+cam_01-e00046,cam_01,2026-04-11 21:54:30,2026-04-11 21:54:32,2.0,3,3,2,False,False,animal,northern raccoon,2,6bb83db716fb1e1f
+cam_01-e00047,cam_01,2026-04-12 01:04:58,2026-04-12 01:05:23,25.0,6,6,1,False,False,animal,northern raccoon,1,b5589ff0e2c53238
+cam_01-e00048,cam_01,2026-04-12 01:32:10,2026-04-12 01:32:12,2.0,3,3,1,False,False,animal,northern raccoon,1,80f7e4d331385cd1
+cam_01-e00049,cam_01,2026-04-12 07:05:16,2026-04-12 07:06:19,63.0,9,9,1,False,False,animal,bobcat,1,769c1d81e744cc2f
+cam_01-e00050,cam_01,2026-04-12 10:53:48,2026-04-12 10:53:50,2.0,3,0,0,False,False,blank,,0,1b3149135734db38
+cam_01-e00051,cam_01,2026-04-12 18:32:59,2026-04-12 18:33:01,2.0,3,3,1,False,False,animal,coyote,1,6afb2f953eabec9b
+cam_01-e00052,cam_01,2026-04-12 18:45:32,2026-04-12 18:45:34,2.0,3,3,3,False,False,animal,wild turkey,3,e990a1e92893d95f
+cam_01-e00053,cam_01,2026-04-12 20:16:29,2026-04-12 20:17:07,38.0,9,9,2,False,False,animal,coyote,2,b754a317724a0a92
+cam_01-e00054,cam_01,2026-04-12 23:38:56,2026-04-12 23:38:58,2.0,3,3,1,False,False,animal,virginia opossum,1,6ee8030866b14988
+cam_01-e00055,cam_01,2026-04-13 00:13:04,2026-04-13 00:13:37,33.0,6,6,1,False,False,animal,mammalia (class),1,05a789b941f90ef9
+cam_01-e00056,cam_01,2026-04-13 01:50:59,2026-04-13 01:51:36,37.0,6,6,1,False,False,animal,northern raccoon,1,97ba6aa0212a5d35
+cam_01-e00057,cam_01,2026-04-13 04:08:27,2026-04-13 04:08:29,2.0,3,3,1,False,False,animal,bobcat,1,bbd86418c991d1f7
+cam_01-e00058,cam_01,2026-04-13 05:26:08,2026-04-13 05:27:23,75.0,9,9,2,False,False,animal,white-tailed deer,2,74ba6e77e24bba58
+cam_01-e00059,cam_01,2026-04-13 06:31:00,2026-04-13 06:31:02,2.0,3,3,2,False,False,animal,white-tailed deer,2,4239132edb7d685f
+cam_01-e00060,cam_01,2026-04-13 06:46:00,2026-04-13 06:46:02,2.0,3,3,1,False,False,animal,white-tailed deer,1,cb712fab62617e73
+cam_01-e00061,cam_01,2026-04-13 14:58:06,2026-04-13 14:58:08,2.0,3,0,0,False,False,blank,,0,a860788c0587c588
+cam_01-e00062,cam_01,2026-04-13 15:35:05,2026-04-13 15:35:07,2.0,3,3,4,False,False,animal,wild turkey,4,9aeb186a36d0e4c5
+cam_01-e00063,cam_01,2026-04-14 02:55:12,2026-04-14 02:55:14,2.0,3,3,2,False,False,animal,coyote,2,050fea3c0b29202f
+cam_01-e00064,cam_01,2026-04-14 06:52:51,2026-04-14 06:52:53,2.0,3,3,3,False,False,animal,white-tailed deer,3,48567fc879b95d29
+cam_01-e00065,cam_01,2026-04-14 11:33:35,2026-04-14 11:33:37,2.0,3,0,0,False,False,blank,,0,17f21058c7b5058f
+cam_01-e00066,cam_01,2026-04-14 14:51:28,2026-04-14 14:51:30,2.0,3,3,2,False,False,animal,eastern gray squirrel,2,a10836e5db84001b
+cam_01-e00067,cam_01,2026-04-14 15:10:31,2026-04-14 15:10:47,16.0,6,6,1,False,False,animal,eastern gray squirrel,1,0d397cb9ada112ac
+cam_01-e00068,cam_01,2026-04-14 15:32:16,2026-04-14 15:32:18,2.0,3,0,0,False,False,blank,,0,a1bf0d41b09d0cf6
+cam_01-e00069,cam_01,2026-04-14 16:09:01,2026-04-14 16:09:03,2.0,3,3,1,False,False,animal,eastern gray squirrel,1,bc3a030ff7eedf5c
+cam_01-e00070,cam_01,2026-04-14 19:29:54,2026-04-14 19:30:48,54.0,9,9,2,False,False,animal,white-tailed deer,2,5b3593aed6f1759d
+cam_01-e00071,cam_01,2026-04-14 20:37:53,2026-04-14 20:37:55,2.0,3,3,3,False,False,animal,white-tailed deer,3,ab2de62a42311a5a
+cam_01-e00072,cam_01,2026-04-14 23:21:15,2026-04-14 23:21:17,2.0,3,3,1,False,False,animal,northern raccoon,1,1a478cb56eb9d161
+cam_01-e00073,cam_01,2026-04-15 00:42:27,2026-04-15 00:42:29,2.0,3,3,2,False,False,animal,canis (genus),2,d6cb3ef1f57a8888
+cam_01-e00074,cam_01,2026-04-15 04:43:38,2026-04-15 04:44:41,63.0,9,9,2,False,False,animal,coyote,2,abfc703a23d1cf96
+cam_01-e00075,cam_01,2026-04-15 08:25:10,2026-04-15 08:25:12,2.0,3,3,2,False,False,animal,white-tailed deer,2,1df293d8c22fe19f
+cam_01-e00076,cam_01,2026-04-15 10:20:56,2026-04-15 10:20:58,2.0,3,3,2,False,False,animal,eastern gray squirrel,2,85594200e9b5ff41
+cam_01-e00077,cam_01,2026-04-15 10:38:31,2026-04-15 10:39:07,36.0,6,6,3,False,False,animal,wild turkey,3,dac518c57718ce58
+cam_01-e00078,cam_01,2026-04-15 15:30:04,2026-04-15 15:30:06,2.0,3,3,3,False,False,animal,wild turkey,3,c85f03bb5c7680bf
+cam_01-e00079,cam_01,2026-04-15 15:48:55,2026-04-15 15:48:57,2.0,3,3,2,False,False,animal,wild turkey,2,0a21f732b5527538
+cam_01-e00080,cam_01,2026-04-15 17:28:20,2026-04-15 17:29:00,40.0,5,5,3,False,False,animal,white-tailed deer,3,d021d654bf595000
+cam_02-e00001,cam_02,2026-04-08 00:28:41,2026-04-08 00:29:21,40.0,9,9,2,False,False,animal,coyote,2,7ddc053b1f102e29
+cam_02-e00002,cam_02,2026-04-08 03:25:16,2026-04-08 03:25:18,2.0,3,3,1,False,False,animal,northern raccoon,1,8cbe30ba9b1b1dd4
+cam_02-e00003,cam_02,2026-04-08 08:48:51,2026-04-08 08:48:53,2.0,3,3,1,False,False,animal,eastern gray squirrel,1,083277364b90a83f
+cam_02-e00004,cam_02,2026-04-08 19:35:49,2026-04-08 19:35:51,2.0,3,3,1,False,False,animal,northern raccoon,1,2a7e66a7fdcbc9e5
+cam_02-e00005,cam_02,2026-04-08 19:56:32,2026-04-08 19:56:34,2.0,3,3,1,False,False,animal,mammalia (class),1,c590d50e7b61e670
+cam_02-e00006,cam_02,2026-04-09 09:01:21,2026-04-09 09:01:34,13.0,6,6,3,False,False,animal,wild turkey,3,df6bbf532222ab9c
+cam_02-e00007,cam_02,2026-04-09 10:29:13,2026-04-09 10:29:15,2.0,3,0,0,False,False,blank,,0,bc74a896198fe7a7
+cam_02-e00008,cam_02,2026-04-09 13:27:07,2026-04-09 13:27:09,2.0,3,0,0,False,False,blank,,0,9ab4407642c9b0c9
+cam_02-e00009,cam_02,2026-04-09 14:33:17,2026-04-09 14:33:19,2.0,3,0,0,False,False,blank,,0,736eae6c7ee7f6d8
+cam_02-e00010,cam_02,2026-04-09 16:01:39,2026-04-09 16:01:41,2.0,3,0,0,False,False,blank,,0,c08a4a083a1df6c5
+cam_02-e00011,cam_02,2026-04-09 22:14:05,2026-04-09 22:14:07,2.0,3,3,1,False,False,animal,white-tailed deer,1,fef82b4a2306dcee
+cam_02-e00012,cam_02,2026-04-09 22:43:44,2026-04-09 22:44:09,25.0,6,6,1,False,False,animal,northern raccoon,1,a485af40f9415f4e
+cam_02-e00013,cam_02,2026-04-09 23:30:16,2026-04-09 23:31:12,56.0,9,9,2,False,False,animal,northern raccoon,2,c91290c9b90a1bf0
+cam_02-e00014,cam_02,2026-04-10 01:56:50,2026-04-10 01:56:52,2.0,3,3,1,False,False,animal,coyote,1,b0e9d254c80840c4
+cam_02-e00015,cam_02,2026-04-10 05:21:20,2026-04-10 05:21:22,2.0,3,3,2,False,False,animal,coyote,2,e187c60deba62e8d
+cam_02-e00016,cam_02,2026-04-10 06:01:26,2026-04-10 06:01:28,2.0,3,3,2,False,False,animal,white-tailed deer,2,3f917c3ddba7a0dc
+cam_02-e00017,cam_02,2026-04-10 14:03:01,2026-04-10 14:03:03,2.0,3,0,0,False,False,blank,,0,2d337fbe7600028d
+cam_02-e00018,cam_02,2026-04-10 15:06:28,2026-04-10 15:06:30,2.0,3,0,0,False,False,blank,,0,a4cb622b0d7c03d7
+cam_02-e00019,cam_02,2026-04-10 17:35:34,2026-04-10 17:35:36,2.0,3,0,0,False,False,blank,,0,1a4966237859368c
+cam_02-e00020,cam_02,2026-04-10 18:02:47,2026-04-10 18:03:03,16.0,6,6,2,False,False,animal,wild turkey,2,1ac8778ebc47aaf9
+cam_02-e00021,cam_02,2026-04-10 19:33:18,2026-04-10 19:33:20,2.0,3,3,3,False,False,animal,white-tailed deer,3,b4091ca12f7a2b06
+cam_02-e00022,cam_02,2026-04-10 20:00:46,2026-04-10 20:00:48,2.0,3,3,1,False,False,animal,virginia opossum,1,ec810f6be78a7d39
+cam_02-e00023,cam_02,2026-04-10 20:34:38,2026-04-10 20:34:40,2.0,3,3,1,False,False,animal,mammalia (class),1,f6ee1e0a82a5e9ff
+cam_02-e00024,cam_02,2026-04-10 22:04:52,2026-04-10 22:04:54,2.0,3,3,1,False,False,animal,mammalia (class),1,2c7e50409c4d112e
+cam_02-e00025,cam_02,2026-04-10 22:29:47,2026-04-10 22:29:49,2.0,3,3,2,False,False,animal,carnivora (order),2,f8dbcfb5ec09430f
+cam_02-e00026,cam_02,2026-04-11 03:19:19,2026-04-11 03:19:21,2.0,3,3,1,False,False,animal,white-tailed deer,1,40ae6d859eca64a9
+cam_02-e00027,cam_02,2026-04-11 10:08:55,2026-04-11 10:08:57,2.0,3,0,0,False,False,blank,,0,e4714191cf610bd3
+cam_02-e00028,cam_02,2026-04-11 11:57:50,2026-04-11 11:57:52,2.0,3,0,0,False,False,blank,,0,4082a2845caa74d4
+cam_02-e00029,cam_02,2026-04-11 16:40:35,2026-04-11 16:40:37,2.0,3,0,0,False,False,blank,,0,1f3653e4555bf110
+cam_02-e00030,cam_02,2026-04-12 05:47:05,2026-04-12 05:47:07,2.0,3,3,1,False,False,animal,odocoileus (genus),1,cca084c85803b0b3
+cam_02-e00031,cam_02,2026-04-12 06:38:35,2026-04-12 06:38:37,2.0,3,3,1,False,False,animal,white-tailed deer,1,80cb0baf555867b5
+cam_02-e00032,cam_02,2026-04-12 13:26:56,2026-04-12 13:26:58,2.0,3,0,0,False,False,blank,,0,8de4afe2cadfc01c
+cam_02-e00033,cam_02,2026-04-12 19:13:04,2026-04-12 19:13:32,28.0,9,9,1,False,False,animal,white-tailed deer,1,6c715aad585022a9
+cam_02-e00034,cam_02,2026-04-12 20:35:06,2026-04-12 20:35:38,32.0,9,9,1,False,False,animal,virginia opossum,1,d8ccf3458afcc074
+cam_02-e00035,cam_02,2026-04-12 22:31:58,2026-04-12 22:32:00,2.0,3,3,1,False,False,animal,northern raccoon,1,c5996ef883316e0d
+cam_02-e00036,cam_02,2026-04-12 23:15:18,2026-04-12 23:15:20,2.0,3,3,2,False,False,animal,northern raccoon,2,9e2badd9085c7ce6
+cam_02-e00037,cam_02,2026-04-12 23:47:21,2026-04-12 23:47:23,2.0,3,3,1,False,False,animal,virginia opossum,1,fea350628862b7da
+cam_02-e00038,cam_02,2026-04-12 23:59:15,2026-04-12 23:59:17,2.0,3,3,3,False,False,animal,white-tailed deer,3,2936019ac7a0703c
+cam_02-e00039,cam_02,2026-04-13 04:37:36,2026-04-13 04:38:15,39.0,6,6,1,False,False,animal,northern raccoon,1,82ad44a3c81a000e
+cam_02-e00040,cam_02,2026-04-13 08:30:06,2026-04-13 08:30:36,30.0,6,6,4,False,False,animal,wild turkey,4,4b83dfa5e9ce99a4
+cam_02-e00041,cam_02,2026-04-13 21:16:55,2026-04-13 21:16:57,2.0,3,3,1,False,False,animal,northern raccoon,1,d7263038f7e8db4c
+cam_02-e00042,cam_02,2026-04-13 22:32:33,2026-04-13 22:32:35,2.0,3,3,1,False,False,animal,coyote,1,3a90e03685b3e888
+cam_02-e00043,cam_02,2026-04-13 23:07:54,2026-04-13 23:08:36,42.0,6,6,2,False,False,animal,northern raccoon,2,adb96e42c338babe
+cam_02-e00044,cam_02,2026-04-14 01:36:02,2026-04-14 01:36:47,45.0,9,9,1,False,False,animal,white-tailed deer,1,77e604b8ee2b3fd5
+cam_02-e00045,cam_02,2026-04-14 02:11:46,2026-04-14 02:12:08,22.0,6,6,3,False,False,animal,white-tailed deer,3,3a06e309bea91bcd
+cam_02-e00046,cam_02,2026-04-14 10:27:47,2026-04-14 10:27:49,2.0,3,0,0,False,False,blank,,0,60617f2f4ee8b2e8
+cam_02-e00047,cam_02,2026-04-14 14:24:42,2026-04-14 14:24:44,2.0,3,0,0,True,False,person,,0,beade07e2d61b271
+cam_02-e00048,cam_02,2026-04-14 17:23:20,2026-04-14 17:24:01,41.0,6,6,2,False,False,animal,wild turkey,2,7bd5b6e7690ac3af
+cam_02-e00049,cam_02,2026-04-15 06:40:21,2026-04-15 06:40:23,2.0,3,3,4,False,False,animal,wild turkey,4,d7eca0d080b98df5
+cam_02-e00050,cam_02,2026-04-15 10:52:55,2026-04-15 10:52:57,2.0,3,0,0,False,False,blank,,0,56b761adb97412e1
+cam_02-e00051,cam_02,2026-04-15 11:17:38,2026-04-15 11:18:45,67.0,9,9,2,False,False,animal,northern raccoon,2,29668fa7a7c768e5
+cam_02-e00052,cam_02,2026-04-15 16:44:19,2026-04-15 16:44:21,2.0,3,3,3,False,False,animal,wild turkey,3,1297d37d28aabf3e
+cam_02-e00053,cam_02,2026-04-15 18:47:59,2026-04-15 18:48:33,34.0,9,9,5,False,False,animal,wild turkey,5,b74f50f5cd20bead
+cam_02-e00054,cam_02,2026-04-15 20:35:19,2026-04-15 20:35:49,30.0,6,6,1,False,False,animal,bobcat,1,d267068c37cdfc01
+cam_02-e00055,cam_02,2026-04-15 22:52:20,2026-04-15 22:52:22,2.0,3,3,2,False,False,animal,northern raccoon,2,cadb0ba071d07112
+cam_03-e00001,cam_03,2026-04-06 02:38:24,2026-04-06 02:38:26,2.0,3,3,1,False,False,animal,northern raccoon,1,ed2635167dceb964
+cam_03-e00002,cam_03,2026-04-06 05:24:55,2026-04-06 05:24:57,2.0,3,3,1,False,False,animal,bobcat,1,e9e89db819b0f4e6
+cam_03-e00003,cam_03,2026-04-06 13:07:18,2026-04-06 13:07:20,2.0,3,0,0,False,False,blank,,0,7f8825ce545a9e74
+cam_03-e00004,cam_03,2026-04-06 22:02:56,2026-04-06 22:03:18,22.0,6,6,1,False,False,animal,bobcat,1,60b70b67f98e6110
+cam_03-e00005,cam_03,2026-04-07 01:28:19,2026-04-07 01:29:26,67.0,9,9,1,False,False,animal,bobcat,1,9c3b0df60becb662
+cam_03-e00006,cam_03,2026-04-07 02:34:10,2026-04-07 02:34:12,2.0,3,3,2,False,False,animal,coyote,2,35d8cb6eb7c395b7
+cam_03-e00007,cam_03,2026-04-07 08:19:51,2026-04-07 08:19:53,2.0,3,0,0,False,False,blank,,0,db8bcbe76e43680d
+cam_03-e00008,cam_03,2026-04-07 10:19:13,2026-04-07 10:19:15,2.0,3,0,0,True,False,person,,0,ebab57a4f067af4f
+cam_03-e00009,cam_03,2026-04-07 14:11:27,2026-04-07 14:11:29,2.0,3,3,1,False,False,animal,eastern gray squirrel,1,a260d3a66374b192
+cam_03-e00010,cam_03,2026-04-07 15:44:20,2026-04-07 15:44:22,2.0,3,3,1,False,False,animal,eastern gray squirrel,1,293d684a0fda3fb6
+cam_03-e00011,cam_03,2026-04-07 17:36:25,2026-04-07 17:36:27,2.0,3,0,0,False,False,blank,,0,f501c2d9a52abe64
+cam_03-e00012,cam_03,2026-04-07 21:12:27,2026-04-07 21:12:29,2.0,3,3,2,False,False,animal,northern raccoon,2,20ce9d09d2217d8b
+cam_03-e00013,cam_03,2026-04-08 00:02:10,2026-04-08 00:02:12,2.0,3,3,2,False,False,animal,northern raccoon,2,01242176cad0116a
+cam_03-e00014,cam_03,2026-04-08 09:40:22,2026-04-08 09:40:49,27.0,6,6,2,False,False,animal,wild turkey,2,378bdc75a9032aba
+cam_03-e00015,cam_03,2026-04-08 13:15:57,2026-04-08 13:15:59,2.0,3,0,0,False,False,blank,,0,9f63f44e7886a6ac
+cam_03-e00016,cam_03,2026-04-09 01:00:21,2026-04-09 01:00:54,33.0,6,6,1,False,False,animal,virginia opossum,1,431edb26a546da15
+cam_03-e00017,cam_03,2026-04-09 02:54:43,2026-04-09 02:54:45,2.0,3,3,1,False,False,animal,northern raccoon,1,917d09b8d47463d6
+cam_03-e00018,cam_03,2026-04-09 07:07:29,2026-04-09 07:07:31,2.0,3,3,3,False,False,animal,wild turkey,3,ce40cf1bfddb50bc
+cam_03-e00019,cam_03,2026-04-09 08:07:23,2026-04-09 08:08:01,38.0,6,6,3,False,False,animal,white-tailed deer,3,01b9f1079fa59688
+cam_03-e00020,cam_03,2026-04-09 09:13:05,2026-04-09 09:13:07,2.0,3,0,0,False,False,blank,,0,799589a71d265c51
+cam_03-e00021,cam_03,2026-04-09 13:00:45,2026-04-09 13:00:47,2.0,3,0,0,False,False,blank,,0,48f4e692d5144cb1
+cam_03-e00022,cam_03,2026-04-09 18:07:31,2026-04-09 18:07:33,2.0,3,3,3,False,False,animal,white-tailed deer,3,d15ada2d7f70f802
+cam_03-e00023,cam_03,2026-04-09 21:06:15,2026-04-09 21:06:17,2.0,3,3,1,False,False,animal,virginia opossum,1,a1d5772a67f2a101
+cam_03-e00024,cam_03,2026-04-09 22:18:34,2026-04-09 22:18:36,2.0,3,3,2,False,False,animal,white-tailed deer,2,6d36b555f5fbde1f
+cam_03-e00025,cam_03,2026-04-13 03:29:58,2026-04-13 03:31:02,64.0,9,9,3,False,False,animal,white-tailed deer,3,a243e31808e655ae
+cam_03-e00026,cam_03,2026-04-13 06:54:44,2026-04-13 06:54:56,12.0,6,6,1,False,False,animal,bobcat,1,6ba3dfb2b3d49b5a
+cam_03-e00027,cam_03,2026-04-14 00:19:55,2026-04-14 00:20:12,17.0,6,6,1,False,False,animal,northern raccoon,1,66500537a2a1d0d1
+cam_03-e00028,cam_03,2026-04-14 19:31:14,2026-04-14 19:31:16,2.0,3,3,3,False,False,animal,white-tailed deer,3,b39aac5af2266acd
+cam_03-e00029,cam_03,2026-04-14 20:32:43,2026-04-14 20:33:14,31.0,6,6,2,False,False,animal,coyote,2,e9f01137e3bceaba
+cam_03-e00030,cam_03,2026-04-14 21:22:00,2026-04-14 21:22:26,26.0,6,6,2,False,False,animal,northern raccoon,2,a9afda56944c9d3f
+cam_03-e00031,cam_03,2026-04-14 21:35:48,2026-04-14 21:36:03,15.0,6,6,1,False,False,animal,virginia opossum,1,7eb1c2db0e1f98d2
+cam_03-e00032,cam_03,2026-04-14 22:09:02,2026-04-14 22:09:04,2.0,3,3,2,False,False,animal,coyote,2,cde442707e79e235
+cam_03-e00033,cam_03,2026-04-15 08:01:46,2026-04-15 08:01:48,2.0,3,3,1,False,False,animal,eastern gray squirrel,1,c666e7ae10c86cac
+cam_03-e00034,cam_03,2026-04-15 10:06:31,2026-04-15 10:06:33,2.0,3,0,0,True,False,person,,0,c892edaa7916fe89
+cam_03-e00035,cam_03,2026-04-15 16:25:15,2026-04-15 16:25:49,34.0,6,6,2,False,False,animal,eastern gray squirrel,2,76d693ce7af58432
+cam_03-e00036,cam_03,2026-04-15 16:39:44,2026-04-15 16:39:46,2.0,3,3,4,False,False,animal,wild turkey,4,9a5ce7d247719be2
+cam_03-e00037,cam_03,2026-04-15 18:32:45,2026-04-15 18:32:47,2.0,3,3,2,False,False,animal,white-tailed deer,2,aa0777f199e5042f
+cam_03-e00038,cam_03,2026-04-15 20:15:27,2026-04-15 20:15:29,2.0,3,3,1,False,False,animal,mammalia (class),1,7068a1327334da4b
+cam_03-e00039,cam_03,2026-04-15 23:37:41,2026-04-15 23:37:43,2.0,3,3,2,False,False,animal,northern raccoon,2,bd20ca8de1f46db6

@@ -1,0 +1,66 @@
+# Python build artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Tool caches and coverage
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# Secrets and local settings
+.env
+.env.*
+
+# Local run output (the committed sample output lives in examples/)
+demo_output/
+/output/
+/outputs/
+/out/
+/runs/
+.cache/
+
+# Raw and downloaded data never belongs in the repository
+/data/
+/downloads/
+*.grib2
+*.grib2.gz
+*.laz
+*.las
+*.tif
+*.tiff
+*.parquet
+*.feather
+*.h5
+*.sqlite
+*.sqlite3
+
+# Photos and run checkpoints
+*.jpg
+*.jpeg
+*.jsonl
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+*.ckpt
+*.safetensors
+
+# Editors and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+~$*

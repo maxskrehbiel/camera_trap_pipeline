@@ -1,0 +1,4 @@
+camera_id,n_photos,n_unreadable,n_invalid_timestamp,first_photo,last_photo,span_days,active_days,effort_days,n_gaps,longest_silence_hours,n_events,n_animal_events,pct_ir,pct_dark,pct_blurry,pct_near_duplicate,pct_empty
+cam_01,357,1,0,2026-04-06 03:18:48,2026-04-15 17:29:01,9.59,10,9.59,0,12.2,80,68,58.1,0.0,3.4,73.3,9.3
+cam_02,294,0,60,2026-04-08 00:28:41,2026-04-15 22:52:22,7.93,8,7.93,0,13.3,55,41,53.1,0.0,0.0,71.1,15.3
+cam_03,159,0,0,2026-04-06 02:38:24,2026-04-15 23:37:43,9.87,7,6.66,1,77.2,39,31,56.6,0.0,0.0,64.8,11.3

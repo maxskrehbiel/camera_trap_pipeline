@@ -1,0 +1,89 @@
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[project]
+name = "camera_trap_pipeline"
+version = "0.1.0"
+description = "Resumable pipeline that turns folders of camera-trap photos into a clean, queryable dataset."
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "Maxwell Krehbiel" }]
+keywords = ["camera traps", "wildlife", "megadetector", "speciesnet", "data pipeline"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Operating System :: OS Independent",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Image Recognition",
+]
+dependencies = [
+    "numpy>=1.24",
+    "pandas>=2.0",
+    "pyarrow>=12",
+    "pillow>=10.0",
+    "matplotlib>=3.7",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4",
+    "pytest-cov>=4.1",
+    "ruff==0.16.8",
+    "mypy==2.3.1",
+    "pandas-stubs>=2.0",
+]
+models = [
+    "megadetector>=5.0",
+    "speciesnet>=4.0",
+]
+opencv = [
+    "opencv-python-headless>=4.8",
+]
+
+[project.urls]
+Homepage = "https://github.com/maxskrehbiel/camera_trap_pipeline"
+Repository = "https://github.com/maxskrehbiel/camera_trap_pipeline"
+Issues = "https://github.com/maxskrehbiel/camera_trap_pipeline/issues"
+
+[project.scripts]
+camera_trap_pipeline = "camera_trap_pipeline.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/camera_trap_pipeline"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "SIM", "N", "RUF", "PTH"]
+
+[tool.ruff.format]
+quote-style = "double"
+
+[tool.mypy]
+strict = true
+files = ["src"]
+
+[[tool.mypy.overrides]]
+module = ["cv2", "cv2.*", "megadetector.*", "speciesnet.*"]
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q -m 'not integration'"
+markers = [
+    "integration: needs network access or downloaded model weights; run with pytest -m integration",
+]
+
+[tool.coverage.run]
+source = ["camera_trap_pipeline"]
+branch = true
+
+[tool.coverage.report]
+show_missing = true
+exclude_also = ["if TYPE_CHECKING:"]

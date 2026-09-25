@@ -1,0 +1,30 @@
+camera_id,species,n_events,animals,max_group,events_per_100_days
+cam_01,white-tailed deer,22,43,3,229.4
+cam_01,northern raccoon,9,13,2,93.8
+cam_01,eastern gray squirrel,8,13,2,83.4
+cam_01,wild turkey,8,26,5,83.4
+cam_01,coyote,7,10,2,73.0
+cam_01,carnivora (order),4,5,2,41.7
+cam_01,virginia opossum,4,4,1,41.7
+cam_01,bobcat,2,2,1,20.9
+cam_01,canis (genus),2,3,2,20.9
+cam_01,mammalia (class),1,1,1,10.4
+cam_01,sciurus (genus),1,2,2,10.4
+cam_02,northern raccoon,11,16,2,138.7
+cam_02,white-tailed deer,9,16,3,113.5
+cam_02,wild turkey,7,23,5,88.3
+cam_02,coyote,4,6,2,50.4
+cam_02,mammalia (class),3,3,1,37.8
+cam_02,virginia opossum,3,3,1,37.8
+cam_02,bobcat,1,1,1,12.6
+cam_02,carnivora (order),1,2,2,12.6
+cam_02,eastern gray squirrel,1,1,1,12.6
+cam_02,odocoileus (genus),1,1,1,12.6
+cam_03,northern raccoon,7,11,2,105.1
+cam_03,white-tailed deer,6,16,3,90.1
+cam_03,bobcat,4,4,1,60.1
+cam_03,eastern gray squirrel,4,5,2,60.1
+cam_03,coyote,3,6,2,45.0
+cam_03,virginia opossum,3,3,1,45.0
+cam_03,wild turkey,3,9,4,45.0
+cam_03,mammalia (class),1,1,1,15.0
